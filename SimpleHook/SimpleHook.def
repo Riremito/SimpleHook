@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+	Hook @1
+	UnHook @2
